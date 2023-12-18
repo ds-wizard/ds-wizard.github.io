@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ds-wizard.org/sitemap.xml
+Host: https://ds-wizard.org
